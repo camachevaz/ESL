@@ -5,5 +5,36 @@ permalink: /verbs/
 category: category-1
 ---
 <hr>
-<h1>Verb practice</h2>
-<div class="icon"><img src="assets/img/project-1.png"></div>
+<h1>Verb practice</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Pronoun</th>
+            <th>Verb</th>
+            <th>Tense</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <td colspan="3">&nbsp;</td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <td id="pronoun"></td>
+            <td id="verb"></td>
+            <td id="tense"></td>
+        </tr>
+    </tbody>
+</table>
+
+<script>
+    function getPractice(){
+        const songs = ["song1", "song2", "song3", "song4", "song5", "song6"];
+        function findSong() {
+            document.getElementById("randomSong").setAttribute("value", songs[randomIndex]);
+            let randomIndex = Math.floor(Math.random() * songs.length);
+        }
+    }
+</script>
