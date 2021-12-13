@@ -1,8 +1,8 @@
-author: Site Author
+author: Carlos Chee
 avatar_url: assets/img/avatar.png
 lightTheme: False
 show_menu_logo_on_home_page: True
 cookies:
-  enabled: True
-  message: This site might be using cookies! Customize your message or disable cookies in metaData.yml!
-  agreeButtonText: Agree
+  enabled: false
+  message: Este sitio usa cookies para guardar tus preferencias.
+  agreeButtonText: Entiendo
