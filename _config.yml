@@ -13,18 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: minimal-categorized
-tagline: A site showing the usage of Jekyll custom theme
-email: email@example.com
+title: ESL
+tagline: Recursos para el aprendizaje del inglés como lengua secundaria
+email: esl@asesoreducativo.mx
 description: >- # this means to ignore newlines until "baseurl:"
-  This website was created as a demonstration for Jekyll custom theme
-  named minimal-categorized. Its main feature is to aggregate posts into
-  categories, witch are easily distinguishable
+  Recursos para el aprendizaje del inglés como lengua secundaria
 baseurl: "/minimal-categorized" # the subpath of your site, e.g. /blog
-url: "https://itsmeaga1n.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: itsmeaga1n
+url: "http://esl.asesoreducativo.mx/" # the base hostname & protocol for your site, e.g. http://example.com
+author: Carlos Chee
 twitter:
-  username: itsmeaga1n
+  username: asesoredumx
   card: summary
 plugins:
   - jekyll-seo-tag
