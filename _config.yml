@@ -18,7 +18,7 @@ tagline: Recursos para el aprendizaje del inglés como lengua secundaria
 email: esl@asesoreducativo.mx
 description: >- # this means to ignore newlines until "baseurl:"
   Recursos para el aprendizaje del inglés como lengua secundaria
-baseurl: "/minimal-categorized" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://esl.asesoreducativo.mx/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Carlos Chee
 twitter:
