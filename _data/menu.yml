@@ -13,7 +13,7 @@ menu_pages:
   category: home
 
 - title: Ejercicios
-  url: /category-1.html
+  url: /ejercicios.html
   show_on_home: True
   image_url: assets/img/category-1.jpg
   icon_name: fas fa-dice
