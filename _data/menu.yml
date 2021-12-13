@@ -6,19 +6,19 @@ minimal_menu: True
 menu_logo: assets/img/avatar.png
 
 menu_pages:
-- title: Home
+- title: Inicio
   url: /
   show_on_home: False
   icon_name: fas fa-home
   category: home
 
-- title: Category 1
+- title: Ejercicios
   url: /category-1.html
   show_on_home: True
   image_url: assets/img/category-1.jpg
   icon_name: fas fa-dice
   category: category-1
-  tooltip: This is category 1
+  tooltip: Ejercicios para ESL
   description: Category 1 description, which is written in menu.yml file under :description property
 
 - title: Category 2
