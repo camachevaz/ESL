@@ -25,7 +25,7 @@ menu_pages:
   url: /pathways/
   show_on_home: True
   image_url: assets/img/category-2.jpg
-  icon_name: fas fa-school
+  icon_name: fas fa-university
   category: category-2
   tooltip: Aprende inglés en Pathways
   description: Category 2 description, which is written in menu.yml file under :description property
@@ -33,7 +33,7 @@ menu_pages:
 - title: Contacto
   url: /contacto/
   show_on_home: False
-  icon_name: fas fa-envelope
+  icon_name: fas fa-comment
   category: about
   tooltip: Contacto
 
