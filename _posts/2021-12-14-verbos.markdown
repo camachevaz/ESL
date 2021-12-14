@@ -4,7 +4,7 @@ title: Verb practice
 layout: default
 permalink: /verbs/
 category: category-1
-summary: Practice the different time tenses with quick templates of pronouns and verbs. 
+summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
 <hr>
 <h1>Verb practice</h1>
