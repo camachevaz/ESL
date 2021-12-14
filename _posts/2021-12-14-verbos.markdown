@@ -26,7 +26,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
             <td id="tense"></td>
         </tr>
         <tr>
-            <td><button id="toggle" type="button" value="Practice!" onclick="toggleHint()"></button></td>
+            <td><button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button></td>
             <td id="hint"></td>
         </tr>
         <tr>
