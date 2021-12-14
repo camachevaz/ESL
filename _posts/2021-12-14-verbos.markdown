@@ -36,7 +36,12 @@ summary: Practice different time tenses with quick templates of pronouns and ver
 </table>
 <script>
     function toggleHint(){
-
+        let element = document.getElementById("hint");
+        if(element.style.display === "none"){
+            element.style.display = "inline";
+        }else{
+            element.style.display = "none";
+        }
     }
     function getPractice(){
         const pronouns = ["I", "You", "We", "They", "He", "She", "It"];
