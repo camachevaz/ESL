@@ -15,7 +15,7 @@ menu_pages:
 - title: Ejercicios
   url: /ejercicios/
   show_on_home: True
-  image_url: assets/img/category-1.jpg
+  image_url: assets/img/ejercicios.png
   icon_name: fas fa-book
   category: category-1
   tooltip: Ejercicios para ESL
