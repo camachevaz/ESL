@@ -13,7 +13,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
         <tr><td colspan="2">Click the button to get a new set to practice</td></tr>
     </thead>
     <tfoot>
-        <tr><td colspan="2" id="hint"></td></tr>
+        <tr><td colspan="2" id="hint">&nbsp;</td></tr>
     </tfoot>
     <tbody>
         <tr>
