@@ -24,7 +24,7 @@ menu_pages:
 - title: Aprende inglés en Pathways
   url: /pathways/
   show_on_home: True
-  image_url: assets/img/category-2.jpg
+  image_url: assets/img/icono-pathways.jpg
   icon_name: fas fa-university
   category: category-2
   tooltip: Aprende inglés en Pathways
