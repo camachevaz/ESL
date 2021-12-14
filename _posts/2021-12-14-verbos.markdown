@@ -9,6 +9,12 @@ summary: Practice different time tenses with quick templates of pronouns and ver
 <hr>
 <h1>Verb practice</h1>
 <table id="verbs">
+    <thead>
+        <tr><td colspan="2">Click the button to get a new set to practice</td></tr>
+    </thead>
+    <tfoot>
+        <tr><td colspan="2" id="hint"></td></tr>
+    </tfoot>
     <tbody>
         <tr>
             <td>Pronoun</td>
