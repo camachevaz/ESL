@@ -28,9 +28,12 @@ summary: Practice different time tenses with quick templates of pronouns and ver
             <td>Tense</td>
             <td id="tense"></td>
         </tr>
+        <tr>
+            <td><button type="button" value="Practice!" onclick="getPractice()">Practice!</button></td>
+            <td><button type="button" value="Practice!" onclick="toggleHint()">Show/Hide hint</button></td>
+        </tr>
     </tbody>
 </table>
-<button type="button" value="Practice!" onclick="getPractice()">Practice!</button>
 <script>
     function getPractice(){
         const pronouns = ["I", "You", "We", "They", "He", "She", "It"];
