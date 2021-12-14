@@ -12,9 +12,6 @@ summary: Practice different time tenses with quick templates of pronouns and ver
     <thead>
         <tr><td colspan="2">Click the button to get a new set to practice</td></tr>
     </thead>
-    <tfoot>
-        <tr><td colspan="2" id="hint">&nbsp;</td></tr>
-    </tfoot>
     <tbody>
         <tr>
             <td>Pronoun</td>
@@ -39,7 +36,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
 </table>
 <script>
     function toggleHint(){
-        
+
     }
     function getPractice(){
         const pronouns = ["I", "You", "We", "They", "He", "She", "It"];
