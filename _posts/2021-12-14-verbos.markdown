@@ -8,7 +8,6 @@ summary: Practice different time tenses with quick templates of pronouns and ver
 ---
 <hr>
 <h1>Verb practice</h1>
-
 <table id="verbs">
     <thead>
         <tr>
@@ -30,10 +29,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
         </tr>
     </tbody>
 </table>
-
 <button type="button" value="Practice!" onclick="getPractice()">Practice!</button>
-
-
 <script>
     function getPractice(){
         const pronouns = ["I", "You", "We", "They", "He", "She", "It"];
