@@ -52,6 +52,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
         let tense = tenses[Math.floor(Math.random()*tenses.length)];
         document.getElementById("pronoun").innerHTML = pronoun;
         document.getElementById("verb").innerHTML = verb;
-        document.getElementById("tense").innerHTML = tense;
+        document.getElementById("tense").innerHTML = tense[tense,0];
+        document.getElementById("tense").innerHTML = tense[tense,1];
     }
 </script>
