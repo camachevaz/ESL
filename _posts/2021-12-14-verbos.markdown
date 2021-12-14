@@ -26,7 +26,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
             <td id="tense"></td>
         </tr>
         <tr>
-            <td><button type="button" value="Practice!" onclick="toggleHint()">Show/Hide hint</button></td>
+            <td><button id="toggle" type="button" value="Practice!" onclick="toggleHint()"></button></td>
             <td id="hint"></td>
         </tr>
         <tr>
@@ -39,8 +39,10 @@ summary: Practice different time tenses with quick templates of pronouns and ver
         let element = document.getElementById("hint");
         if(element.style.display === "none"){
             element.style.display = "inline";
+            document.getElementById("toggle").innerHTML = "Hide hint";
         }else{
             element.style.display = "none";
+            document.getElementById("toggle").innerHTML = "Show hint";
         }
     }
     function getPractice(){
