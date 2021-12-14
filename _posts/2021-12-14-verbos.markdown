@@ -9,22 +9,17 @@ summary: Practice different time tenses with quick templates of pronouns and ver
 <hr>
 <h1>Verb practice</h1>
 <table id="verbs">
-    <thead>
-        <tr>
-            <th>Pronoun</th>
-            <th>Verb</th>
-            <th>Tense</th>
-        </tr>
-    </thead>
-    <tfoot>
-        <tr>
-            <td colspan="3">&nbsp;</td>
-        </tr>
-    </tfoot>
     <tbody>
         <tr>
+            <td>Pronoun</td>
             <td id="pronoun"></td>
+        </tr>
+        <tr>
+            <td>Verb</td>
             <td id="verb"></td>
+        </tr>
+        <tr>
+            <td>Tense</td>
             <td id="tense"></td>
         </tr>
     </tbody>
