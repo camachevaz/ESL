@@ -6,10 +6,10 @@ category: home
     
     <h1>
         {% if site.data.metaData.show_menu_logo_on_home_page %}
-        {% comment %}    
-            {% include avatar.html %}
-        {% endcomment %}
-            {{ site.data.metaData.avatar_url }}
+            {% comment %}    
+                {% include avatar.html %}
+            {% endcomment %}
+            <img src="{{ site.data.metaData.avatar_url }}" />
         {% endif %}
         {% comment %}
             {{ page.title }}
