@@ -17,18 +17,18 @@ menu_pages:
   show_on_home: True
   image_url: assets/img/ejercicios.png
   icon_name: fas fa-book
-  category: category-1
+  category: ejercicios
   tooltip: Ejercicios para ESL
-  description: Category 1 description, which is written in menu.yml file under :description property
+  description: Practica de forma independiente con ejercicios en línea
 
 - title: Aprende inglés en Pathways
   url: /pathways/
   show_on_home: True
   image_url: assets/img/icono-pathways.jpg
   icon_name: fas fa-university
-  category: category-2
+  category: pathways
   tooltip: Aprende inglés en Pathways
-  description: Category 2 description, which is written in menu.yml file under :description property
+  description: ¿Decidido a aprender inglés? Contacta a Pathways y empieza tu camino
 
 - title: Contacto
   url: /contacto/
