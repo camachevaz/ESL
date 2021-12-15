@@ -54,7 +54,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
             ["Present continuous","Pronoun + Am/Is/Are + Verb(ing)"],
             ["Simple past","Pronoun + Verb simple past"],
             ["Present perfect","Pronoun + Have/Has + Verb participle"],
-            ["Future - Going to","Pronoun + Am/Is/Are + Goint to + Verb base form"],
+            ["Future - Going to","Pronoun + Am/Is/Are + Going to + Verb base form"],
             ["Future - Will","Pronoun + Will + Verb base form"]
         ];
         let pronoun = pronouns[Math.floor(Math.random()*pronouns.length)];
