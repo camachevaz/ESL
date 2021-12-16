@@ -2,7 +2,9 @@
 layout: default
 ---
 <div class="content-container category-aggregator {{ page.category }}">
+    {% comment %}
     <h1>{{ page.title }}</h1>
     <p>{{ page.summary }}</p>
+    {% endcomment %}
     {{content}}
 </div>
