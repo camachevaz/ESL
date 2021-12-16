@@ -1,6 +1,6 @@
 ---
 title: Verb practice
-layout: category-aggregator
+layout: drill-post
 permalink: /verbs/
 category: category-1
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
