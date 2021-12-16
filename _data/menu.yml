@@ -3,7 +3,7 @@ menu_headline: Contacta con Pathways School of Languages
 menu_intro: Hi! This is an example of intro that you could write for your jekyll minimal-categorized theme!
 show_menu_on_gate_page: False
 minimal_menu: True
-menu_logo: /assets/img/icono-pathways.png
+menu_logo: /assets/img/icono-pathways.jpg
 
 menu_pages:
 - title: Inicio
