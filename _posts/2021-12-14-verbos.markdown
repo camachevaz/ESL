@@ -6,7 +6,7 @@ category: drills
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
 
-# Verb practice <button type="button" value="Practice!" onclick="getPractice()">Practice!</button>
+# Verb practice <button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button>
   
 Click the button to get a set of Pronoun, Verbe, and Tense Try to make a sentence with these cues.
 
