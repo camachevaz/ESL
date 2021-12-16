@@ -24,8 +24,11 @@ margin: 1.5rem 0 2rem;}
 #verb, #pronoun, #tense{text-transform: uppercase !important;
 font-size: 1.5rem;}
 
+#hint, #toggle{padding: 1rem;
+margin: 1.25rem 0 1rem 0;}
 #hint{border: solid 2px #ffffff;
 background: #97acff;
-color: #00108b;
-padding: 1rem;
-margin: 1.25rem 0 1rem 0;}
+color: #00108b;}
+#toggle{border: solid 2px #ff6f22;
+background: #ffb26b;
+color: #722e00;}
