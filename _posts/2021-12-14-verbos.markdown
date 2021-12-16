@@ -14,10 +14,17 @@ If you need help click the *Show hint* button.
 
 ## 1. Verb
 
+<p id="verb"></p>
+
 ## 2. Pronoun
+
+<p id="pronoun"></p>
 
 ## 3. Tense
 
+<p id="tense"></p>
+
+{% comment %}
 <table id="verbs">
     <thead>
         <tr><td colspan="2">Click the button to get a new set to practice</td></tr>
@@ -44,6 +51,8 @@ If you need help click the *Show hint* button.
         </tr>
     </tbody>
 </table>
+{% endcomment %}
+
 <script>
     function toggleHint(){
         let element = document.getElementById("hint");
