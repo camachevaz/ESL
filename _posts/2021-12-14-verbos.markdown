@@ -1,19 +1,14 @@
 ---
-layout: post
 title: Verb practice
-layout: default
+layout: category-aggregator
 permalink: /verbs/
 category: category-1
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
-<div class="content-container category-aggregator">
 
 # Verb practice
   
 Click the button to get a set of Pronoun, Verbe, and Tens. Try to make a sentence with these cues.
-
-</div>
-
 
 If you need help click the *Show hint* button.
 
