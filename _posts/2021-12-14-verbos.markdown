@@ -14,17 +14,19 @@ If you need help click the *Show hint* button.
 
 ## 1. Verb
 
-<p style="font-weight:bold;text-transformation:uppercase;" id="verb"></p>
+<p id="verb"></p>
 
 ## 2. Pronoun
 
-<p style="font-weight:bold;text-transformation:uppercase;" id="pronoun"></p>
+<p id="pronoun"></p>
 
 ## 3. Tense
 
-<p style="font-weight:bold;text-transformation:uppercase;" id="tense"></p>
+<p id="tense"></p>
 
-## Hint <button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button> 
+## Hint
+
+<button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button> 
 
 {% comment %}
 <table id="verbs">
