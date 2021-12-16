@@ -12,11 +12,11 @@ Click the button to get a set of Pronoun, Verbe, and Tens. Try to make a sentenc
 
 If you need help click the *Show hint* button.
 
-## Verb
+## Verb.
 
-## Pronoun
+## Pronoun.
 
-## Tense
+## Tense.
 
 <table id="verbs">
     <thead>
