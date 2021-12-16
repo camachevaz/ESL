@@ -24,6 +24,11 @@ If you need help click the *Show hint* button.
 
 <p id="tense"></p>
 
+## Hint
+
+<button type="button" value="Practice!" onclick="getPractice()">Practice!</button>
+<button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button> 
+
 {% comment %}
 <table id="verbs">
     <thead>
