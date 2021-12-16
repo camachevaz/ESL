@@ -11,8 +11,11 @@
 
 #verbs{background: #ffffff;}
 
-#btn-practice{border:#46ff6b;
+#btn-practice {border: #fff 2px solid;
 background: #9df8ff;
-color:#007936;
+color: #007936;
 border-radius: 1rem;
-padding: 1rem;}
+padding: .5rem;
+cursor: pointer;
+font-weight: bold;
+text-transform: uppercase;}
