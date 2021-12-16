@@ -1,6 +1,6 @@
 menu_title: Contacta con Pathways School of Languages
 menu_headline: Contacta con Pathways School of Languages
-menu_intro: <p><i class="fas fa-phone-square" aria-hidden="true"></i> <a style="text-decoration:underline;"Marca al 686 568 2045</p><p><i class="fas fa-thumbs-up" aria-hidden="true"></i> Checa su <a style="text-decoration:underline;" href="https://www.facebook.com/EscuelaPathways/">Facebook</a></p><p><i class="fas fa-globe" aria-hidden="true"></i> O <a style="text-decoration:underline;" href="http://escuelapathways.com/">visita su página</a></p>
+menu_intro: <p><i class="fas fa-phone-square" aria-hidden="true"></i> Marca al <a style="text-decoration:underline;" href="tel:+526865682045">686 568 2045</a></p><p><i class="fas fa-thumbs-up" aria-hidden="true"></i> Checa su <a style="text-decoration:underline;" href="https://www.facebook.com/EscuelaPathways/">Facebook</a></p><p><i class="fas fa-globe" aria-hidden="true"></i> O <a style="text-decoration:underline;" href="http://escuelapathways.com/">visita su página</a></p>
 show_menu_on_gate_page: False
 minimal_menu: True
 menu_logo: /assets/img/icono-pathways.jpg
