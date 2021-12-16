@@ -1,7 +1,7 @@
 ---
 title: Verb practice
 layout: drill-post
-permalink: /verbs/
+permalink: /ejercicios/verbs/
 category: drills
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
