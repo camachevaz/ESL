@@ -6,7 +6,7 @@ permalink: /verbs/
 category: category-1
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
-<div class="content-container category-aggregator category-1">
+<div class="content-container category-aggregator">
 
 # Verb practice
   
