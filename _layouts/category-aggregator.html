@@ -7,6 +7,7 @@ layout: default
     {{content}}
     <hr class="content-separator">
     {% for post in site.posts %}
+        {% comment %}
         {% if post.category == page.category %}
             <article>
                 <header>
@@ -42,5 +43,6 @@ layout: default
                 <hr>
             </article>
         {% endif %}
+        {% endcomment %}
     {% endfor %}
 </div>
