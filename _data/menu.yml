@@ -1,6 +1,6 @@
 menu_title: Contacta con Pathways School of Languages
 menu_headline: Contacta con Pathways School of Languages
-menu_intro: Marca al <i class="fas fa-phone" aria-hidden="true">686 123 1234</i>
+menu_intro: <ul><li>Marca al <i class="fas fa-phone-square" aria-hidden="true"> 686 123 1234</i></li><li>Checa su <a href="">Facebook</a></li><li>O <a href="">visita su página</a></li>
 show_menu_on_gate_page: False
 minimal_menu: True
 menu_logo: /assets/img/icono-pathways.jpg
