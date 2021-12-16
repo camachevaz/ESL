@@ -30,40 +30,11 @@ If you need help click the *Show hint* button.
 
 <button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button> 
 
-{% comment %}
-<table id="verbs">
-    <thead>
-        <tr><td colspan="2">Click the button to get a new set to practice</td></tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Pronoun</td>
-            <td id="pronoun"></td>
-        </tr>
-        <tr>
-            <td>Verb</td>
-            <td id="verb"></td>
-        </tr>
-        <tr>
-            <td>Tense</td>
-            <td id="tense"></td>
-        </tr>
-        <tr>
-            <td><button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button></td>
-            <td id="hint"></td>
-        </tr>
-        <tr>
-            <td colspan="2"><button type="button" value="Practice!" onclick="getPractice()">Practice!</button></td>
-        </tr>
-    </tbody>
-</table>
-{% endcomment %}
-
 <script>
     function toggleHint(){
         let element = document.getElementById("hint");
         if(element.style.display === "none"){
-            element.style.display = "inline";
+            element.style.display = "block";
             document.getElementById("toggle").innerHTML = "Hide hint";
         }else{
             element.style.display = "none";
