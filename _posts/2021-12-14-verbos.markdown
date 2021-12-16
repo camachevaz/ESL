@@ -14,15 +14,15 @@ If you need help click the *Show hint* button.
 
 ## 1. Verb
 
-<p id="verb"></p>
+<p style="font-weight:bold;text-transformation:uppercase;" id="verb"></p>
 
 ## 2. Pronoun
 
-<p id="pronoun"></p>
+<p style="font-weight:bold;text-transformation:uppercase;" id="pronoun"></p>
 
 ## 3. Tense
 
-<p id="tense"></p>
+<p style="font-weight:bold;text-transformation:uppercase;" id="tense"></p>
 
 ## Hint
 
