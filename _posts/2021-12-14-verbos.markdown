@@ -6,9 +6,14 @@ permalink: /verbs/
 category: category-1
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
-# Verb practice
+<div class="content-container category-aggregator category-1">
 
+# Verb practice
+  
 Click the button to get a set of Pronoun, Verbe, and Tens. Try to make a sentence with these cues.
+
+</div>
+
 
 If you need help click the *Show hint* button.
 
