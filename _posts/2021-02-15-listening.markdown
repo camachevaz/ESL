@@ -21,7 +21,7 @@ Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes u
     </tfoot>
     <tbody>
         <td>Occupations</td>
-        <td>I am an artist / I´m an artist 1x</td>
+        <td>I am an artist / I´m an artist</td>
         <td>
             <audio controls src="/assets/audio/Le01Un01Ls01-01.wav">
                 Tu navegador no soporta el elemento <code>audio</code>.
