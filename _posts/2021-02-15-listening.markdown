@@ -12,9 +12,22 @@ Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes u
 
 ## Occupations
 
-<figure>
-    <figcaption>I am an artist / I´m an artist 1x</figcaption>
-    <audio controls src="/assets/audio/Le01Un01Ls01-01.wav">
-        Tu navegador no soporta el elemento <code>audio</code>.
-    </audio>
-</figure>
+<table>
+    <thead>
+        <th>Topic</th>
+        <th>Script</th>
+        <th>Audio</th>
+    </thead>
+    <tfoot>
+        <td colspan="3">&nbsp;</td>
+    </tfoot>
+    <tbody>
+        <td>Occupations</td>
+        <td>I am an artist / I´m an artist 1x</td>
+        <td>
+            <audio controls src="/assets/audio/Le01Un01Ls01-01.wav">
+                Tu navegador no soporta el elemento <code>audio</code>.
+            </audio>
+        </td>
+    </tbody>
+</table>
