@@ -10,6 +10,8 @@ summary: Practice your listening skills in self-paced exercises.
 
 Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes usar el menú en cada audio para modificar la velocidad de reproducción.
 
+## Occupations
+
 <figure>
     <figcaption>I am an artist / I´m an artist 1x</figcaption>
     <audio controls src="/assets/audio/Le01Un01Ls01-01.wav">
