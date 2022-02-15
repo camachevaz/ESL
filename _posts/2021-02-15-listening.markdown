@@ -10,7 +10,7 @@ summary: Practice your listening skills in self-paced exercises.
 
 Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes usar el menú en cada audio para modificar la velocidad de reproducción.
 
-<table>
+<table class="listening-drill">
     <thead>
         <th>Topic</th>
         <th>Script</th>
