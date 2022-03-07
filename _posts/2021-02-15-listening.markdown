@@ -10,9 +10,11 @@ summary: Practice your listening skills in self-paced exercises.
 
 Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes usar el menú en cada audio para modificar la velocidad de reproducción.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Unit 1 Lesson 1
 
-<style>.embedtool {position: relative;height: 0;padding-top: 56%;overflow: hidden;max-width: 100%;} .embedtool iframe, .embedtool object, .embedtool embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .embedtool .fluid-vids {position: initial !important}</style><div class="embedtool"><iframe src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+### Vocabulary
+
+<style>.embedtool {position: relative;height: 0;padding-top: 56%;overflow: hidden;max-width: 100%;} .embedtool iframe, .embedtool object, .embedtool embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .embedtool .fluid-vids {position: initial !important}</style><div class="embedtool"><iframe src="https://www.youtube.com/watch?v=kAzF9fNV_T8?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <!--
 <table class="listening-drill">
