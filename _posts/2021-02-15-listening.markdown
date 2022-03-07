@@ -22,13 +22,9 @@ summary: Practice your listening skills in self-paced exercises for level 1.
     }
 </style>
 
-# Listening practice
+# Listening exercises, level 1
 
 Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes usar el menú en cada audio para modificar la velocidad de reproducción.
-
-## Unit 1 Lesson 1
-
-### Vocabulary
 
 <div class="container">
     <iframe class="video" src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" frameborder="0" allowfullscreen></iframe>
