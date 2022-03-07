@@ -6,6 +6,22 @@ category: drills
 summary: Practice your listening skills in self-paced exercises. 
 ---
 
+<style>
+    .container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    }
+    .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
 # Listening practice
 
 Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes usar el menú en cada audio para modificar la velocidad de reproducción.
@@ -16,7 +32,9 @@ Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes u
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+    <iframe class="video" src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!--
 <table class="listening-drill">
