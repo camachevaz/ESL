@@ -1,9 +1,9 @@
 ---
-title: Listening practice
+title: Listening exercises, level 1
 layout: drill-post
 permalink: /ejercicios/listening/
 category: drills
-summary: Practice your listening skills in self-paced exercises. 
+summary: Practice your listening skills in self-paced exercises for level 1. 
 ---
 
 <style>
@@ -29,8 +29,6 @@ Escucha y repite, esfuérzate por imitar el acento y la pronunciación. Puedes u
 ## Unit 1 Lesson 1
 
 ### Vocabulary
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="container">
     <iframe class="video" src="https://www.youtube.com/embed/videoseries?list=PLnzuXz_0et0iHttybSG8Q0-Cx9u4B3Fr4" frameborder="0" allowfullscreen></iframe>
