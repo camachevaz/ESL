@@ -1,6 +1,6 @@
 ---
 title: Class notes, Jacksonville. March 16th, 2022
-permalink/class-notes/16-03-2022-jacksonville
+permalink: /class-notes/16-03-2022-jacksonville
 ---
 
 # PRONUNCIATION
