@@ -3,7 +3,7 @@ title: Class notes, Wyoming. March 26th, 2022
 layout: drill-post
 permalink: /class-notes/26-03-2022-wyoming/
 category: notes
-summary: Session notes
+summary: Class notes
 ---
 
 ARTIST - BRAD PITT IS AN ARTIST
