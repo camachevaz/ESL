@@ -1,7 +1,7 @@
 ---
-title: Class notes, Jacksonville. March 16th, 2022
+title: Class notes, Wyoming. March 26th, 2022
 layout: drill-post
-permalink: /class-notes/16-03-2022-jacksonville/
+permalink: /class-notes/26-03-2022-wyoming/
 category: notes
 summary: Session notes
 ---
