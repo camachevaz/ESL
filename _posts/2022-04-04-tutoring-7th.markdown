@@ -12,7 +12,7 @@ summary: Class notes
 Person 1 + GET (any time tense) + Person 2 + Infinitve verb
 
 - **She** __*got*__ **her** **to go** to a baseball game
-- **I** ____*will get*___ **my boss** **to give** me a day off
+- **I** __*will get*__ **my boss** **to give** me a day off
 
 ### Simnple present
 - She gets himm to wash the car every time it's dirty.
@@ -56,7 +56,7 @@ Person 1 + GET (any time tense) + Person 2 + Infinitve verb
 Person 1 + HAVE (any time tense) + Person 2 + base form
 
 - **She** __*got*__ **her** **to** **go** to a baseball game
-- **I** ____*will get*___ **my boss** **to** **give** me a day off
+- **I** __*will get*__ **my boss** **to** **give** me a day off
 
 ### Simple present
 
