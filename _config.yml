@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "CHEE asesores educativos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Ofrecemos servicios profesionales en educación básica, y formación en el uso de TICs para empresas y centros educativos."
+  location         : "Mexicali, Baja California. México"
   email            :
   links:
     - label: "Correo"
