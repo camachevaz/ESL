@@ -1,6 +1,6 @@
 ---
 title: Listening exercises, level 1
-layout: drill-post
+layout: posts
 permalink: /ejercicios/listening/
 category: drills
 summary: Practice your listening skills in self-paced exercises for level 1. 
