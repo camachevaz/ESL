@@ -1,6 +1,6 @@
 ---
 title: Class notes, Jacksonville. March 16th, 2022
-layout: drill-post
+layout: posts
 permalink: /class-notes/16-03-2022-jacksonville/
 category: notes
 summary: Session notes

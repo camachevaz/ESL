@@ -1,6 +1,6 @@
 ---
 title: Class notes, Wyoming. March 26th, 2022
-layout: drill-post
+layout: posts
 permalink: /class-notes/26-03-2022-wyoming/
 category: notes
 summary: Class notes
