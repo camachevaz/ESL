@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+locale                   : "es-ES"
+title                    : "Aprende inglés ESL"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "CHEE asesores educativos"
+description              : "Recursos para el aprendizaje de inglés como segundo idioma."
 url                      : "https://esl.asesoreducativo.mx/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Aprende inglés ESL"
+  avatar           : "/assets/img/logo-v.png"
+  bio              : "Recursos para el aprendizaje de inglés como segundo idioma."
+  location         : "Mexicali, Baja California. México"
   email            :
   links:
-    - label: "Email"
+    - label: "Correo"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "esl@asesoreducativo.mx"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
