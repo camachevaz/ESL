@@ -24,7 +24,7 @@ description              : "Recursos para aprender inglés como segundda lengua.
 url                      : "https://esl.asesoreducativo.mx/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+# teaser                   : ""
 logo                     : "/assets/img/mstile-150x150.png"
 masthead_title           : " "
 breadcrumbs              : true
