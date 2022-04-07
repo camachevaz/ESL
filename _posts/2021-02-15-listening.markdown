@@ -2,6 +2,7 @@
 title: Listening exercises, level 1
 layout: posts
 permalink: /practica/listening/
+category: practica
 summary: Practice your listening skills in self-paced exercises for level 1. 
 ---
 

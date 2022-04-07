@@ -2,6 +2,7 @@
 title: Tutoring notes, causative, passive causative, reported speech. April 4th, 2022
 layout: posts
 permalink: /notas/04-04-2022-tutoring-7th/
+category: nota
 summary: Class notes
 ---
 # Causative

@@ -2,6 +2,7 @@
 title: Verb practice
 layout: posts
 permalink: /practica/verbs/
+category: practica
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
 

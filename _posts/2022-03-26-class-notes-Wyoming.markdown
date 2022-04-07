@@ -2,6 +2,7 @@
 title: Class notes, Wyoming. March 26th, 2022
 layout: posts
 permalink: /notas/26-03-2022-wyoming/
+category: nota
 summary: Class notes
 ---
 # Words and pronunciation
