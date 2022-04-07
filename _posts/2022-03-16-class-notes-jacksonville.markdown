@@ -3,7 +3,7 @@ title: Class notes, Jacksonville. March 16th, 2022
 layout: posts
 permalink: /notas/16-03-2022-jacksonville/
 category: nota
-summary: Session notes
+summary: Jacksonville class notes
 ---
 
 # PRONUNCIATION
