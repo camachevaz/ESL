@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "es-ES"
 title                    : "Aprende inglés ESL"
-title_separator          : "-"
-subtitle                 : "Recursos para aprender inglés como segundda lengua."
+title_separator          : "|"
+subtitle                 : " "
 name                     : "Aprende inglés ESL"
 description              : "Recursos para aprender inglés como segundda lengua."
 url                      : "https://esl.asesoreducativo.mx/"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/img/mstile-150x150.png"
-masthead_title           : "Masthead"
+masthead_title           : " "
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "CHEE asesores educativos"
-  avatar           : "/assets/img/logo-chee-color.jpg"
-  bio              : "Ofrecemos servicios profesionales en educación básica, y formación en el uso de TICs para empresas y centros educativos."
+  name             : "Aprende inglés ESL"
+  avatar           : "/assets/img/logo-v.png"
+  bio              : "Recursos para auxiliar el aprendizaje del inglés como lengua secundaria."
   location         : "Mexicali, Baja California. México"
   email            :
   links:
