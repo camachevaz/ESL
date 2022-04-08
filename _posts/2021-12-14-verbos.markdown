@@ -14,11 +14,11 @@ If you need help click the *Show hint* button.
 
 <button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button>
 
-<table style="width:100%">
+<table style="width:100%;">
     <colgroup>
-        <col style="width=33.3333%">
-        <col style="width=33.3333%">
-        <col style="width=33.3333%">
+        <col style="width:33.3333%;">
+        <col style="width:33.3333%;">
+        <col style="width:33.3333%;">
     </colgroup>
     <thead>
         <tr>
