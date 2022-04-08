@@ -7,6 +7,7 @@ summary: Practice different time tenses with quick templates of pronouns and ver
 ---
 <style>
     table {background: #ddd;}
+    table th, table td{width:33.3333%;}
 </style>
 
 Click the button to get a set of Pronoun, Verbe, and Tense Try to make a sentence with these cues.
