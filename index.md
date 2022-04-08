@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: splash
 author_profile: true
 title: ¿Quieres aprender inglés?
 ---
