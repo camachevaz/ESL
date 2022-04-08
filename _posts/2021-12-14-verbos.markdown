@@ -34,7 +34,7 @@ If you need help click the *Show hint* button.
             <td scope="col"><p id="tense"></p></td>
         </tr>
         <tr>
-            <td colspan="3"><span id="hint"></span></td>
+            <td colspan="3" style="margin:0;padding:0"><span id="hint" style="background-color:#d8ebf1;display:block"></span></td>
         </tr>
     </tbody>
 </table>
