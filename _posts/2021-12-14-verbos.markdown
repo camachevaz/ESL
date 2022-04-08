@@ -12,9 +12,22 @@ If you need help click the *Show hint* button.
 
 <button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button>
 
-**Pronoun** | **Verb** | **Tense**
---- | --- | ---
-<p id="pronoun"></p> | <p id="pronoun"></p> | <p id="tense"></p>
+<table style="width:100%">
+    <thead>
+        <tr>
+            <th style="width=33.3333%">Pronoun</th>
+            <th style="width=33.3333%">Verb</th>
+            <th style="width=33.3333%">Tense</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="width=33.3333%"><p id="pronoun"></p></td>
+            <td style="width=33.3333%"><p id="verb"></p></td>
+            <td style="width=33.3333%"><p id="tense"></p></td>
+        </tr>
+    </tbody>
+</table>
 
 {% comment %}
 ## 1. Pronoun
