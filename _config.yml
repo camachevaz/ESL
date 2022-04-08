@@ -103,8 +103,8 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Aprende inglés ESL"
-  avatar           : # "/assets/img/mstile-150x150.png"
+  name             : "Carlos Manuel Chee Vázquez"
+  avatar           : "/assets/img/mstile-150x150.png"
   bio              : "Recursos para el aprendizaje de inglés como segundo idioma."
   location         : # "Mexicali, Baja California. México"
   email            :
