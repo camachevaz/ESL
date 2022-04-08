@@ -12,6 +12,10 @@ If you need help click the *Show hint* button.
 
 <button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button>
 
+**Pronoun** | **Verb** | **Tense**
+--- | --- | ---
+Pronoun | Verb | Tense
+
 ## 1. Pronoun
 
 <p id="pronoun"></p>
