@@ -4,6 +4,7 @@ author_profile: true
 title: ¿Quieres aprender inglés?
 ---
 
+![](/assets/img/logo-h.png){: .img-h}
 Olvídate de ejercicios gramaticales, conjugación de verbos, y reglas estrictas.
 
 ## Aprende inglés de la forma más natural: Hablándolo
