@@ -22,33 +22,19 @@ If you need help click the *Show hint* button.
     </colgroup>
     <thead>
         <tr>
-            <th>Pronoun</th>
-            <th>Verb</th>
-            <th>Tense</th>
+            <th scope="col">Pronoun</th>
+            <th scope="col">Verb</th>
+            <th scope="col">Tense</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><p id="pronoun"></p></td>
-            <td><p id="verb"></p></td>
-            <td><p id="tense"></p></td>
+            <td scope="col"><p id="pronoun"></p></td>
+            <td scope="col"><p id="verb"></p></td>
+            <td scope="col"><p id="tense"></p></td>
         </tr>
     </tbody>
 </table>
-
-{% comment %}
-## 1. Pronoun
-
-<p id="pronoun"></p>
-
-## 2. Verb
-
-<p id="pronoun"></p>
-
-## 3. Tense
-
-<p id="tense"></p>
-{% endcomment %}
 
 ## Hint
 
