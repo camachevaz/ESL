@@ -20,6 +20,7 @@ title                    : "ESL"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "CHEE asesores educativos"
+parent_url               : "https://asesoreducativo.mx/"
 description              : "Recursos para el aprendizaje de inglés como segundo idioma."
 url                      : "https://esl.asesoreducativo.mx/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
