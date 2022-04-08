@@ -106,7 +106,7 @@ author:
   name             : "Carlos Manuel Chee Vázquez"
   avatar           : "/assets/img/autor.jpg"
   bio              : "Apasionado por el uso de la tecnología y su aprovechamiento positivo en los aspectos educativos, personales y profesionales."
-  location         : # "Mexicali, Baja California. México"
+  location         : "Mexicali, Baja California. México"
   email            : "esl@asesoreducativo.mx"
   links:
     - label: "Correo"
