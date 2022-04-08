@@ -39,8 +39,6 @@ If you need help click the *Show hint* button.
     </tbody>
 </table>
 
-## Hint
-
 <button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button> 
 
 <script>
