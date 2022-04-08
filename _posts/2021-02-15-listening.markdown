@@ -4,10 +4,6 @@ layout: posts
 permalink: /practica/listening/
 category: practica
 summary: Practice your listening skills in self-paced exercises for level 1. 
-header:
-  video:
-    id: PLnzuXz_0et0iHttybSG8Q0
-    provider: youtube
 ---
 
 <style>
