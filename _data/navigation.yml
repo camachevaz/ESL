@@ -2,5 +2,7 @@
 main:
   - title: "Notas"
     url: /notas/
+    description: "Anotaciones de clases y asesorías"
   - title: "Prácticas"
     url: /practicas/
+    description: "Ejerciios y prácitcas en línea"
