@@ -107,7 +107,7 @@ author:
   avatar           : "/assets/img/autor.jpg"
   bio              : "Apasionado por el uso de la tecnología y su aprovechamiento positivo en los aspectos educativos, personales y profesionales."
   location         : # "Mexicali, Baja California. México"
-  email            :
+  email            : "esl@asesoreducativo.mx"
   links:
     - label: "Correo"
       icon: "fas fa-fw fa-envelope-square"
