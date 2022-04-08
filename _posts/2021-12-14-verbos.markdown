@@ -12,7 +12,7 @@ Click the button to get a set of Pronoun, Verbe, and Tense Try to make a sentenc
 If you need help click the *Show hint* button.
 {: .notice--warning}
 
-<button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button>
+<button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button class=".btn .btn--primary">
 
 <table style="width:100%">
     <colgroup>
