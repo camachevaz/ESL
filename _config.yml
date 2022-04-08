@@ -105,12 +105,12 @@ author:
   name             : "Aprende inglés ESL"
   avatar           : "/assets/img/mstile-150x150.png"
   bio              : "Recursos para el aprendizaje de inglés como segundo idioma."
-  location         : "Mexicali, Baja California. México"
+  location         : # "Mexicali, Baja California. México"
   email            :
   links:
     - label: "Correo"
       icon: "fas fa-fw fa-envelope-square"
-      url: "esl@asesoreducativo.mx"
+      # url: "esl@asesoreducativo.mx"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
