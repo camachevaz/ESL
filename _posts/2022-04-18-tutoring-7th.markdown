@@ -236,7 +236,7 @@ Can + Person 1 + have/got + noun + past participle?
 - She + the A/C + install + before summer
 - They + the furniture + deliver + before Sunday
 
-# Reported speech
+# Indirect speech
 
 ## Be present changes to Be past
 
