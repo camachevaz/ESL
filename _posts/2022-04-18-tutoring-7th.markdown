@@ -11,14 +11,15 @@ toc_sticky: true
 # Causative
 
 ## Basic structure (get)
+Express the idea of a person persuading another person to do something.
 
 Person 1 + GET (any time tense) + Person 2 + Infinitve verb
 
 - **She** __*got*__ **her** **to go** to a baseball game
 - **I** __*will get*__ **my boss** **to give** me a day off
 
-### Simnple present
-- She gets himm to wash the car every time it's dirty.
+### Simple present
+- She gets him to wash the car every time it's dirty.
 - She -> Him (pay the bills)
 - She -> Him (buy a dress)
 - She -> Him (buy shoes)
@@ -26,7 +27,7 @@ Person 1 + GET (any time tense) + Person 2 + Infinitve verb
 - She -> Him (mow the lawn)
 - She -> Him (pick her up from work)
 - She -> Him (come home early for the party)
-- She -> Gun (pick up the kids)
+- She -> Him (pick up the kids)
 
 ### Simple past
 - He got her to bake a cake for his birthday.
@@ -42,7 +43,9 @@ Person 1 + GET (any time tense) + Person 2 + Infinitve verb
 
 ### Future (will or be going to)
 - They will get him to fix the lamp.
+- They are going to get him to fix the lamp.
 - They are going to get her to babysit the kids.
+- They will get her to babysit the kids.
 - They -> him (clean his room)
 - They -> her (do homework)
 - They -> him (do the dishes)
@@ -58,13 +61,16 @@ Person 1 + GET (any time tense) + Person 2 + Infinitve verb
 
 Person 1 + HAVE (any time tense) + Person 2 + base form
 
-- **She** __*got*__ **her** **to** **go** to a baseball game
-- **I** __*will get*__ **my boss** **to** **give** me a day off
+- **She** __*had*__ **her** **go** to a baseball game
+- **I** __*will have*__ **my boss** **give** me a day off
 
 ### Simple present
 
 - My parents have me wash the dishes every time I visit them.
 - He -> the mechanic (rotate the car tires)
+- He HAS the mechanic rotate the car tires
+- I HAVE the mechanic...
+- She HAS the mechanic...
 - He -> the mechanic (replace the spark plugs)
 - He -> the mechanic (change the oil)
 - He -> the mechanic (check the transmission)
@@ -75,6 +81,7 @@ Person 1 + HAVE (any time tense) + Person 2 + base form
 ### Simple past
 
 - The doctor had her patient drink more water.
+- THE DOCTOR HAD MY PARENTS TAKE A BLOOD TEST.
 - The doctor -> her patient (take medicine)
 - The doctor -> her patient (get a check-up)
 - The doctor -> her patient (exercise more)
@@ -84,10 +91,16 @@ Person 1 + HAVE (any time tense) + Person 2 + base form
 - The doctor -> her patient (donate blood)
 
 ### Future (will or be going to)
+- I will have YOU take a test.
+- YOU are going to have ME check the answers.
 
 - She -> the mechanic (fix some dents)
+- SHE WILL HAVE THE MECHANIC FIX SOME DENTS
 - She -> the mechanic (fix the oil leak)
-- She -> the mechanic (align the tires)
+- She -> the mechanic (align [ALAIN] the tires)
+- I (AM)
+- YOU. WE. THEY (ARE)
+- SHE, HE, IT (IS)
 - She -> the mechanic (adjust the brakes)
 - He -> his patient (stop drinking alcohol)
 - He -> his patient (take a blood test)
@@ -98,6 +111,9 @@ Person 1 + HAVE (any time tense) + Person 2 + base form
 
 ### Past
 
+- GET: to express the idea of persuading, convincing, someone
+- HAVE: to express the idea of directing, ordering, somenone
+
 Did + Person 1 + have + Person 2 + Base form verb?
 Did + Person 1 + get + Person 2 + Infinitve form verb?
 
@@ -105,8 +121,10 @@ Did + Person 1 + get + Person 2 + Infinitve form verb?
 - Did you get your neihbor to trim the tree?
 
 - He -> the mechanic (rotate the car tires)
+- Did he have the mechanic rotate the car tires?
 - He -> the mechanic (replace the spark plugs)
 - She -> Him (buy a dress)
+- Did she get him to buy a dress?
 - She -> Him (buy shoes)
 - He -> Her (put away the dishes)
 - He -> Her (sweep the floor)
@@ -129,6 +147,8 @@ Will + Person 1 + get + Persob 2 + Infinitive form verb?
 - He -> the mechanic (replace the spark plugs)
 - She -> Him (buy a dress)
 - She -> Him (buy shoes)
+- WILL - Will she have him buy shoes?
+- GOING TO - Is she going to have him buy shoes?
 - He -> Her (put away the dishes)
 - He -> Her (sweep the floor)
 - They -> her (go to the store)
@@ -139,6 +159,7 @@ Will + Person 1 + get + Persob 2 + Infinitive form verb?
 - He -> his patient (sleep more)
 		
 # Passive causative
+Express the idea of an action completed by persuading or directing someone to do it, BUT WE DON'T SAY WHO COMPLETED THE ACTION.
 
 ## Basic structure
 
@@ -147,14 +168,14 @@ Person 1 + Have/Get (any time tense) + Noun + Past participle
 ### Simple present
 
 - He has the carpet vacuumed every other day.
-- He gets the lawn mowed every Saturdat.
+- He gets the lawn mowed every Saturday.
 
 - He + the dishes + do + every day
 - he + the laundry + do + evert week
 - He + the cabintes + dust + every two weeks
-- He + the floors + sweep + every other day
+- He + the floors + sweep (swept) + every other day
 - He + the stove + clean + on Sundays
-- He + the pictures + arrange + once a year
+- He + the pictures + arrange (areincht) + once a year
 - He + the rooms + declutter + every month
 - He + the beds + make + every morning
 - He + dinner + cook + every weekday
@@ -167,15 +188,16 @@ Person 1 + Have/Get (any time tense) + Noun + Past participle
 - She had her nails done yesterday.
 
 - She + the kids + pick up
-- She + the backyard + mow
-- She + the garden + water
-- She + her laptop + fix
+- She got the kids picked (pikt) up last Friday
+- She + the backyard + mow (mowed - MOUD)
+- She + the garden + water (watered - WARERD)
+- She + her laptop + fix (fixed - FIXT)
 - She + the letter + send
-- She + the dog + groom
-- She + the washing machine + service
+- She + the dog + groom (groomed - GRUMD)
+- She + the washing machine + service (serviced - SERVIST)
 - She + the bills + pay
 - She + the groceries + buy
-- She + the new bed + install
+- She + the new bed + install (installed - INSTALD)
 - She + her car + fill up
 
 ### Future (will or be going to)
@@ -185,14 +207,14 @@ Person 1 + Have/Get (any time tense) + Noun + Past participle
 
 - I will have my room repainted.
 - I have my car's oil changed every six months.
-- I + he ashtray + empty
+- I + the ashtray + empty (emptied)
 - I + the engine + tune up
 - I + the brakes + check
-- I + the car + repaint
-- I + the front lights + repair
+- I + the car + repaint (repainted)
+- I + the front lights + repair (repaired - RIPERD)
 - I + the radio + fix
 - I + the radiator + change
-- I + the fuel filter + replace
+- I + the fuel (fiul) filter + replace
 - I + the A/C + service
 
 ## Yes/No questions
@@ -202,7 +224,7 @@ Person 1 + Have/Get (any time tense) + Noun + Past participle
 Did + Person 1 + have/get + noun + past participle?
 
 - Did you have your engine checked yesterday?
-- Did your parents get their house remodeled?
+- Did your parents get their house remodeled (RIMADELD)?
 - Did your boss get the report written during the last meeting?
 
 - Me + my car + wash + yesterday
@@ -225,15 +247,15 @@ Will + Person 1 + have/get + noun + past participle?
 
 ### Capacity
 
-Can + Person 1 + have/got + noun + past participle?
+Can + Person 1 + have/get + noun + past participle?
 
 - Can she get her hair cut today at 4:00?
-- Can you have my suit dry-cleaned today?
+- Can you have my suit (ZUT) dry-cleaned (CLIIND) today?
 - Can they get the laundry washed this weekend?
 
-- Me + my clothes + iron
-- He + the bills + pay + on time
-- She + the A/C + install + before summer
+- Me + my clothes (CLOUTS) + iron
+- He + the bills + pay (PAID) + on time
+- She + the A/C (air conditioner) + install + before summer
 - They + the furniture + deliver + before Sunday
 
 # Indirect speech
