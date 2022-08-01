@@ -1,0 +1,71 @@
+---
+title: Gerunds and infinitive practice
+layout: posts
+permalink: /practica/gerunds/
+category: practica
+summary: Practice the use of gerunds and infinitives. 
+---
+
+Click the button to get a verb.
+{: .notice--info}
+
+If you need help click the *Show hint* button.
+{: .notice--warning}
+
+<button id="btn-practice" type="button" value="Practice!" onclick="getPractice()">Practice!</button>
+
+<table style="width:100%;">
+    <colgroup>
+        <col style="width:50%;">
+        <col style="width:50%;">
+    </colgroup>
+    <thead>
+        <tr>
+            <th scope="col">Main verb</th>
+            <th scope="col">Second verb</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="col"><p id="mainVerb"></p></td>
+            <td scope="col"><p id="secondVerb"></p></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="margin:0;padding:0"><span id="hint" style="background-color:#d8ebf1;display:block"></span></td>
+        </tr>
+    </tbody>
+</table>
+
+<button id="toggle" type="button" value="Practice!" onclick="toggleHint()">Hide hint</button> 
+
+<script>
+    function toggleHint(){
+        let element = document.getElementById("hint");
+        if(element.style.display === "none"){
+            element.style.display = "block";
+            document.getElementById("toggle").innerHTML = "Hide hint";
+        }else{
+            element.style.display = "none";
+            document.getElementById("toggle").innerHTML = "Show hint";
+        }
+    }
+    function getPractice(){
+        const mainVerbsA = ["Avoid", "Discuss", "Dislike", "Don't mind", "Enjoy", "Feel like",  "Practce", "Quit", "Suggest"];
+        const mainVerbsB = ["Choose", "Decide", "Expect", "Hope", "Learn", "Need", "Plan", "Want", "Wish", "Would like"];
+        const mainVerbsC = ["Begin", "Can't stand", "Continue", "Hate", "Like", "Love", "Prefer", "Start"];
+        const secondVerbs = ["Accept", "Accuse", "Achieve", "Acquire", "Adapt", "Add", "Adjust", "Admire", "Admit", "Adopt", "Advise", "Afford", "Agree", "Allow", "Announce", "Apologize", "Appear", "Apply", "Appreciate", "Approach", "Approve", "Arrive", "Ask", "Assume", "Attempt", "Attend", "Attract", "Avoid", "Awake", "Bake", "Be", "Become", "Beg", "Begin", "Believe", "Belong", "Boil", "Borrow", "Break", "Bring", "Build", "Burn", "Buy", "Calculate", "Carry", "Catch", "Celebrate", "Change", "Choose", "Claim", "Climb", "Come", "Communicate", "Compare", "Compete", "Complain", "Complete", "Consider", "Consult", "Continue", "Convince", "Cook", "Count", "Create", "Cry", "Cut", "Dance", "Decide", "Deliver", "Deny", "Depend", "Describe", "Destroy", "Determine", "Disagree", "Discover", "Discuss", "Dislike", "Distribute", "Do", "Doubt", "Dream", "Drink", "Drive", "Drop", "Earn", "Eat", "Enjoy", "Enter", "Examine", "Expect", "Explain", "Explore", "Fail", "Fall", "Feed", "Feel", "Fight", "Find", "Finish", "Fly", "Follow", "Forget", "Forgive", "Freeze", "Fry", "Generate", "Get", "Give", "Go", "Grow", "Hang", "Happen", "Hate", "Have", "Hear", "Hide", "Hit", "Hold", "Hug", "Hurry", "Hurt", "Identify", "Ignore", "Imagine", "Improve", "Include", "Inform", "Insist", "Introduce", "Invest", "Investigate", "Jog", "Jump", "Keep", "Kick", "Kiss", "Know", "Laugh", "Lead", "Learn", "Leave", "Like", "Listen", "Look", "Lose", "Love", "Make", "Manage", "Meet", "Mention", "Need", "Obtain", "Open", "Order", "Own", "Paint", "Participate", "Pay", "Play", "Practice", "Prefer", "Prepare", "Pretend", "Prevent", "Proceed", "Promise", "Propose", "Protect", "Punch", "Push", "Put", "Quit", "React", "Read", "Receive", "Relax", "Remember", "Repair", "Replace", "Retire", "Ride", "Run", "Say", "See", "Sell", "Send", "Serve", "Set", "Shake", "Show", "Sing", "Sit", "Sleep", "Slide", "Smell", "Snore", "Solve", "Speak", "Spend", "Stand", "Start", "Steal", "Stop", "Study", "Suggest", "Swim", "Take", "Talk", "Taste", "Teach", "Tell", "Think", "Throw", "Tolerate", "Try", "Understand", "Vacuum", "Volunteer", "Wait", "Wake", "Walk", "Want", "Wash", "Watch", "Wear", "Win", "Wish", "Write"];
+        //const tenses = ["Simple present", "Present continuous", "Simple past", "Present perfect", "Future - Going to", "Future - Will"];
+        const types = [
+            [1,"Verbs follwed by a gerund","Main verb + verb-ING"],
+            [2,"Verbs followed by an infinitive","Main verb + TO base form verb"],
+            [3,"Verbs followed by a gerund or an infinitive","Main verb + verb-ING OR TO base form verb"]
+        ];
+        let mainVerb = pronouns[Math.floor(Math.random()*pronouns.length)];
+        let verbs2 = verbs[Math.floor(Math.random()*verbs.length)];
+        let types = tenses[Math.floor(Math.random()*tenses.length)];
+        document.getElementById("pronoun").innerHTML = pronoun;
+        document.getElementById("verb").innerHTML = verb;
+        document.getElementById("tense").innerHTML = tense[tense,0];
+        document.getElementById("hint").innerHTML = tense[tense,1];
+    }
+</script>
