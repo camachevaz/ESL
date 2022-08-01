@@ -60,9 +60,9 @@ If you need help click the *Show hint* button.
             [2,"Verbs followed by an infinitive","Main verb + TO base form verb"],
             [3,"Verbs followed by a gerund or an infinitive","Main verb + verb-ING OR TO base form verb"]
         ];
-        let mainVerb = pronouns[Math.floor(Math.random()*pronouns.length)];
-        let verbs2 = verbs[Math.floor(Math.random()*verbs.length)];
-        let types = tenses[Math.floor(Math.random()*tenses.length)];
+        let mainVerb = mainVerbA[Math.floor(Math.random()*pronouns.length)];
+        let secondVerb = secondVerbs[Math.floor(Math.random()*verbs.length)];
+        let types = types[Math.floor(Math.random()*tenses.length)];
         document.getElementById("pronoun").innerHTML = pronoun;
         document.getElementById("verb").innerHTML = verb;
         document.getElementById("tense").innerHTML = tense[tense,0];
