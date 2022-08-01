@@ -65,14 +65,14 @@ If you need help click the *Show hint* button.
         let type = types[Math.floor(Math.random()*types.length)];
         let useType = type[0]
         if(useType == 1){
-            console.log(useType)+"1";
-            let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
+            console.log("1");
+            console.log(useType);
         }else if(useType == 2){
-            console.log(useType)+"2";
-            let mainVerb = mainVerbsB[Math.floor(Math.random()*mainVerbsB.length)];
+            console.log("2");
+            console.log(useType);
         }else{
-            console.log(useType)+"3";
-            let mainVerb = mainVerbsC[Math.floor(Math.random()*mainVerbsC.length)];
+            console.log("3");
+            console.log(useType);
         }
 
         //let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
