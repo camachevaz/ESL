@@ -65,7 +65,7 @@ If you need help click the *Show hint* button.
         let type = types[Math.floor(Math.random()*types.length)];
         let useType = type[0]
         console.log(useType);
-        /*switch (useType){
+        switch (useType){
             case "1":
                 let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
             case: "2"
@@ -74,8 +74,8 @@ If you need help click the *Show hint* button.
                 let mainVerb = mainVerbsC[Math.floor(Math.random()*mainVerbsA.length)];
             default:
 
-        }*/
-        let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
+        }
+        //let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
         let secondVerb = secondVerbs[Math.floor(Math.random()*secondVerbs.length)];
         document.getElementById("mainVerb").innerHTML = mainVerb;
         document.getElementById("secondVerb").innerHTML = secondVerb;
