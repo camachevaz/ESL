@@ -70,16 +70,10 @@ If you need help click the *Show hint* button.
         let secondVerb = secondVerbs[Math.floor(Math.random()*secondVerbs.length)];
         
         if(useType == 1){
-            console.log("1");
-            console.log(mainVerbA);
             document.getElementById("mainVerb").innerHTML = mainVerbA;
         }else if(useType == 2){
-            console.log("2");
-            console.log(mainVerbB);
             document.getElementById("mainVerb").innerHTML = mainVerbB;
         }else{
-            console.log("3");
-            console.log(mainVerbC);
             document.getElementById("mainVerb").innerHTML = mainVerbC;
         }
 
