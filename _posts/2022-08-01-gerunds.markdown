@@ -67,7 +67,7 @@ If you need help click the *Show hint* button.
         let secondVerb = secondVerbs[Math.floor(Math.random()*secondVerbs.length)];
         document.getElementById("mainVerb").innerHTML = mainVerb;
         document.getElementById("secondVerb").innerHTML = secondVerb;
-        document.getElementById("use").innerHTML = type[2];
-        document.getElementById("hint").innerHTML = type[1];
+        document.getElementById("use").innerHTML = type[1];
+        document.getElementById("hint").innerHTML = type[2];
     }
 </script>
