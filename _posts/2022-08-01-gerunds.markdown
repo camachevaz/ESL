@@ -64,20 +64,20 @@ If you need help click the *Show hint* button.
         ];
         let type = types[Math.floor(Math.random()*types.length)];
         let useType = type[0]
+        let mainVerbA = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
+        let mainVerbB = mainVerbsB[Math.floor(Math.random()*mainVerbsB.length)];
+        let mainVerbC = mainVerbsC[Math.floor(Math.random()*mainVerbsC.length)];
         
-        /*if(useType == 1){
+        if(useType == 1){
             console.log("1");
-            console.log(useType);
+            let mainVerb = mainVerbA;
         }else if(useType == 2){
             console.log("2");
-            console.log(useType);
+            let mainVerb = mainVerbB;
         }else{
             console.log("3");
-            console.log(useType);
-        }*/
-
-        //let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
-        let mainVerb = useType;
+            let mainVerb = mainVerbC;
+        }
         let secondVerb = secondVerbs[Math.floor(Math.random()*secondVerbs.length)];
         document.getElementById("mainVerb").innerHTML = mainVerb;
         document.getElementById("secondVerb").innerHTML = secondVerb;
