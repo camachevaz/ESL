@@ -66,10 +66,13 @@ If you need help click the *Show hint* button.
         let useType = type[0]
         if(useType == 1){
             console.log(useType)+"1";
+            let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
         }else if(useType == 2){
             console.log(useType)+"2";
+            let mainVerb = mainVerbsB[Math.floor(Math.random()*mainVerbsB.length)];
         }else{
             console.log(useType)+"3";
+            let mainVerb = mainVerbsC[Math.floor(Math.random()*mainVerbsC.length)];
         }
 
         //let mainVerb = mainVerbsA[Math.floor(Math.random()*mainVerbsA.length)];
