@@ -62,10 +62,9 @@ If you need help click the *Show hint* button.
         ];
         let mainVerb = mainVerbA[Math.floor(Math.random()*pronouns.length)];
         let secondVerb = secondVerbs[Math.floor(Math.random()*verbs.length)];
-        let types = types[Math.floor(Math.random()*tenses.length)];
-        document.getElementById("pronoun").innerHTML = pronoun;
-        document.getElementById("verb").innerHTML = verb;
-        document.getElementById("tense").innerHTML = tense[tense,0];
-        document.getElementById("hint").innerHTML = tense[tense,1];
+        let type = types[Math.floor(Math.random()*tenses.length)];
+        document.getElementById("mainVerb").innerHTML = pronoun;
+        document.getElementById("secondVerb").innerHTML = verb;
+        document.getElementById("hint").innerHTML = types[types,2];
     }
 </script>
