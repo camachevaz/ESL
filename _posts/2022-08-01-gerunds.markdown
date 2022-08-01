@@ -16,22 +16,25 @@ If you need help click the *Show hint* button.
 
 <table style="width:100%;">
     <colgroup>
-        <col style="width:50%;">
-        <col style="width:50%;">
+        <col style="width:33.3333%;">
+        <col style="width:33.3333%;">
+        <col style="width:33.3333%;">
     </colgroup>
     <thead>
         <tr>
+            <th scope="col">Type</th>
             <th scope="col">Main verb</th>
             <th scope="col">Second verb</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td scope="col"><p id="use"></p></td>
             <td scope="col"><p id="mainVerb"></p></td>
             <td scope="col"><p id="secondVerb"></p></td>
         </tr>
         <tr>
-            <td colspan="2" style="margin:0;padding:0"><span id="hint" style="background-color:#d8ebf1;display:block"></span></td>
+            <td colspan="3" style="margin:0;padding:0"><span id="hint" style="background-color:#d8ebf1;display:block"></span></td>
         </tr>
     </tbody>
 </table>
@@ -64,6 +67,7 @@ If you need help click the *Show hint* button.
         let secondVerb = secondVerbs[Math.floor(Math.random()*secondVerbs.length)];
         document.getElementById("mainVerb").innerHTML = mainVerb;
         document.getElementById("secondVerb").innerHTML = secondVerb;
+        document.getElementById("hint").innerHTML = type[2];
         document.getElementById("hint").innerHTML = type[1];
     }
 </script>
