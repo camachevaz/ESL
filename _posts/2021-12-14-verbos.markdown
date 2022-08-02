@@ -6,7 +6,7 @@ category: practica
 summary: Practice different time tenses with quick templates of pronouns and verbs. 
 ---
 
-Click the button to get a set of Pronoun, Verbe, and Tense Try to make a sentence with these cues.
+Click the button to get a set of Pronoun, Verb, and Tense. Try to make a sentence with these cues.
 {: .notice--info}
 
 If you need help click the *Show hint* button.
