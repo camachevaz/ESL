@@ -37,13 +37,13 @@ MEALS OF THE DAY (never use "the")
 - last year
 - 3 days ago
 
-COOK present
-COOKED cukt
-FINISH
-FINISHED finicht
-WASH wach
-WASHED wacht
-BOUGHT bot
+- COOK present
+- COOKED cukt
+- FINISH
+- FINISHED finicht
+- WASH wach
+- WASHED wacht
+- BOUGHT bot
 
 ## Already:
 Express completed actions, normally in the context of obligations, actions you are supposed to do or complete.
@@ -76,16 +76,16 @@ Affirmative sentences
 - I have already played baskeball
 
 
-CLEAN cli'in
-CLEAND cli'ind/cli'int
-WATCH watch
-WATCHED watcht
+- CLEAN cli'in
+- CLEAND cli'ind/cli'int
+- WATCH watch
+- WATCHED watcht
 
-VERBS THAT FINISH WITH "T" OR "D" SOUND pronound "ed"
-NEED - NEEDED
-WANT - WANTED
-START - STARTED
-GRADUATE - GRADUATED
+- VERBS THAT FINISH WITH "T" OR "D" SOUND pronound "ed"
+- NEED - NEEDED
+- WANT - WANTED
+- START - STARTED
+- GRADUATE - GRADUATED
 
 ## Yet:
 Express not completed actions, normally in the context of obligations, actions you are supposed to do or complete.
@@ -113,8 +113,8 @@ Express not completed actions, normally in the context of obligations, actions y
 
 - ALREADY/YET yes no questions
 - Have you already washed your car? Information question
- Have you washed your car yet? 
- - have you finished your homework yet?
+- Have you washed your car yet? 
+- have you finished your homework yet?
  
 - Have you already sent the report?
 - Have you already called "cald" your mom?
@@ -122,11 +122,9 @@ Express not completed actions, normally in the context of obligations, actions y
 - Have you paid the rent yet?
 - Have you already cleaned your house? 
 
-sound of letter Y is like "iiii"
+- sound of letter Y is like "iiii"
 - YOU "iu"
 - YESTERDAY "iesterdei"
-
-jet airplane
 
 ## Ever/Before questions:
 Emphasize if an action has happened in the life experience of a person, use in Yes/No questions.
@@ -152,14 +150,9 @@ Emphasize if an action has happened in the life experience of a person, use in Y
 - Have you sang rancheras before?
 - Have you ever drunk wine? 
 
-water
-- a glass of water
-- water
-- a bottle of water
-
-sound linking
-have you ever fought asnake?
-jav iu ever fot asneik
+- sound linking
+- have you ever fought asnake?
+- jav iu ever fot asneik
 
 WORK (THE PLACE WHERE YOU WORK)
 
@@ -191,10 +184,6 @@ YOU CAN'T USE DOUBLE NEGATIVES
 - My father hasn't ever traveled by airplane
 - My grandmother has never eaten sea food
 - My sister hasn't ever played the guitar
-
-SHOP verb 
-
-I WENT SHOPPING 
 
 - COAKROACHes coukrouches
 - ROACHes rouches
