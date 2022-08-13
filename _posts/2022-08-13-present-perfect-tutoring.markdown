@@ -9,23 +9,23 @@ summary: Present perfect uses
 IT'S ABOUT THE PAST, FOCUS ON ACTIONS COMPLETED
 - Prounoun + Have/Has + Participle
 
-I have eaten pizza
-I have eaten salmon
-I have driven my car
-I have read a new booK
-My mom has eaten meat
-My sister has bought me a gift
-My brother has cooked enchiladas
-I haven't finished my English classes
-I haven't worked this morning
-I haven't watched the new series
-I haven't cleaned my house
-I haven't cooked lunch
-My mom hasn't washed the laundry
-My sister hasn't chosen a career
-My boss hasn't sent the metrics report
-My husband hasn't bought apples
-My mom hasn't made breakfast
+- I have eaten pizza
+- I have eaten salmon
+- I have driven my car
+- I have read a new booK
+- My mom has eaten meat
+- My sister has bought me a gift
+- My brother has cooked enchiladas
+- I haven't finished my English classes
+- I haven't worked this morning
+- I haven't watched the new series
+- I haven't cleaned my house
+- I haven't cooked lunch
+- My mom hasn't washed the laundry
+- My sister hasn't chosen a career
+- My boss hasn't sent the metrics report
+- My husband hasn't bought apples
+- My mom hasn't made breakfast
 
 MEALS OF THE DAY (never use "the")
 - breakfast
